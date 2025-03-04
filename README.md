@@ -20,12 +20,20 @@ Find collaborators for AI-driven projects. Prove that code can be art — throug
 
 # 📊 Stats:
 
-<div align="center">
+<div align="center" style="margin-top: -20px">
 
-  [![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&theme=dark&hide_border=true&layout=compact&height=300&card_width=400&langs_count=6&bg_color=00000000&title_color=58A6FF)](https://github.com/ActBotArt?tab=repositories)
-  [![Основная статистика](https://github-readme-stats.vercel.app/api?username=ActBotArt&theme=dark&hide_border=true&count_private=false&show_icons=true&height=300&card_width=400&bg_color=00000000&title_color=58A6FF)](https://github.com/ActBotArt?tab=repositories)
+  <!-- Основная статистика и языки -->
+  <a href="https://github.com/ActBotArt">
+    <img src="https://github-readme-stats.vercel.app/api?username=ActBotArt&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=00000000&card_width=450">
+  </a>
+  <a href="https://github.com/ActBotArt?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&theme=dark&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=00000000&card_width=450">
+  </a>
 
-  [![Полоса активности](https://github-readme-streak-stats.herokuapp.com/?user=ActBotArt&theme=dark&hide_border=true&background=00000000&fire=DD2727&currStreakLabel=58A6FF&height=300&card_width=400)](https://github.com/ActBotArt?tab=repositories)
+  <!-- Полоса активности (без верхнего отступа) -->
+  <a href="https://github.com/ActBotArt" style="display: block; margin-top: -30px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ActBotArt&theme=dark&hide_border=true&background=00000000&fire=DD2727&currStreakLabel=58A6FF&ring=58A6FF&dates=58A6FF&sideNums=58A6FF&stroke=58A6FF50">
+  </a>
 
 </div>
 
