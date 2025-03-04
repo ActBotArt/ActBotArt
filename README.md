@@ -20,19 +20,21 @@ Find collaborators for AI-driven projects. Prove that code can be art — throug
 
 # 📊 Stats:
 
-<div align="center" style="margin-top: -20px">
+<div align="center">
 
-  <!-- Основная статистика и языки -->
+  <!-- Основная статистика -->
   <a href="https://github.com/ActBotArt">
-    <img src="https://github-readme-stats.vercel.app/api?username=ActBotArt&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF&bg_color=00000000&card_width=450">
-  </a>
-  <a href="https://github.com/ActBotArt?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&theme=dark&layout=compact&hide_border=true&title_color=58A6FF&text_color=FFFFFF&bg_color=00000000&card_width=450">
+    <img width="340" src="https://github-readme-stats.vercel.app/api?username=ActBotArt&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&card_width=340&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF">
   </a>
 
-  <!-- Полоса активности (без верхнего отступа) -->
-  <a href="https://github.com/ActBotArt" style="display: block; margin-top: -30px">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ActBotArt&theme=dark&hide_border=true&background=00000000&fire=DD2727&currStreakLabel=58A6FF&ring=58A6FF&dates=58A6FF&sideNums=58A6FF&stroke=58A6FF50">
+  <!-- Топ языков -->
+  <a href="https://github.com/ActBotArt?tab=repositories">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&layout=compact&hide_border=true&bg_color=00000000&card_width=340&title_color=58A6FF&text_color=FFFFFF">
+  </a>
+
+  <!-- Полоса активности -->
+  <a href="https://github.com/ActBotArt">
+    <img width="340" src="https://streak-stats.demolab.com?user=ActBotArt&hide_border=true&background=00000000&fire=DD2727&currStreakLabel=58A6FF&currStreakNum=58A6FF&dates=58A6FF&ring=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&stroke=58A6FF">
   </a>
 
 </div>
