@@ -39,8 +39,8 @@ Find collaborators for AI-driven projects. Prove that code can be art — throug
   </a>
 
   <!-- Достижения -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ActBotArt&theme=onedark" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=ActBotArt&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=ActBotArt&theme=onedark"/>
   </a>
   
 </div>
