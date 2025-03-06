@@ -22,18 +22,18 @@ Find collaborators for AI-driven projects. Prove that code can be art — throug
 
 <div align="center">
   <!-- Основная статистика -->
-  <a href="https://github.com/ActBotArt">
+  <a href="https://github-readme-stats.vercel.app/api?username=ActBotArt&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&card_width=340&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF">
     <img width="340" src="https://github-readme-stats.vercel.app/api?username=ActBotArt&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&include_all_commits=true&card_width=340&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF">
   </a>
 
   <!-- Топ языков -->
-  <a href="https://github.com/ActBotArt?tab=repositories">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&layout=compact&hide_border=true&bg_color=00000000&card_width=340&title_color=58A6FF&text_color=58A6FF">
     <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&layout=compact&hide_border=true&bg_color=00000000&card_width=340&title_color=58A6FF&text_color=58A6FF">
   </a>
 
   <!-- Полоса активности -->
-  <a href="https://streak-stats.demolab.com?user=ActBotArt&hide_border=true&background=00000000&fire=DD2727&currStreakLabel=58A6FF&currStreakNum=58A6FF&dates=58A6FF&ring=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&stroke=58A6FF">
-    <img width="340" src="https://streak-stats.demolab.com?user=ActBotArt&hide_border=true&background=00000000&fire=DD2727&currStreakLabel=58A6FF&currStreakNum=58A6FF&dates=58A6FF&ring=58A6FF&sideNums=58A6FF&sideLabels=58A6FF&stroke=58A6FF">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&layout=compact&hide_border=true&bg_color=00000000&card_width=340&title_color=58A6FF&text_color=58A6FF">
+    <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ActBotArt&layout=compact&hide_border=true&bg_color=00000000&card_width=340&title_color=58A6FF&text_color=58A6FF">
   </a>
 </div>
 
